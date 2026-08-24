@@ -65,9 +65,26 @@ class FirestoreRepository {
             }
     }
 
+    // NEW: cross-app duplicate check — both apps share the same Firebase
+    // project, but a TID used to activate a customer here (via THIS
+    // app's "transactions" collection) could otherwise be reused in the
+    // separate Dealer App to also claim franchise balance credit (its
+    // own "dealerTransactions" collection), or vice versa. That gap is
+    // closed by checking BOTH collections.
+    private val dealerTransactionsRef = db.collection("dealerTransactions")
+    private val suspiciousActivityRef = db.collection("suspiciousActivity")
+
     /**
      * Prevents duplicate/fake TID submissions: if this exact TID has already
      * been recorded (regardless of which customer submitted it), block it.
+     * ALSO checks the separate Dealer App's "dealerTransactions"
+     * collection — a dealer activating a customer with a slip, then
+     * trying to reuse the SAME slip's TID to also claim franchise
+     * balance credit (or vice versa) is exactly the kind of cross-app
+     * reuse this is meant to catch. When a cross-app match is found,
+     * logs it to "suspiciousActivity" so Admin has visibility into which
+     * TID/customer/dealer attempted this, even though the attempt itself
+     * is blocked here and never completes.
      */
     suspend fun isTidAlreadyUsed(tid: String): Boolean {
         val snapshot = transactionsRef
@@ -75,7 +92,28 @@ class FirestoreRepository {
             .whereIn("status", listOf("VERIFIED", "PENDING"))
             .get()
             .await()
-        return !snapshot.isEmpty
+        if (!snapshot.isEmpty) return true
+
+        // NEW: also check the Dealer App's collection for the same TID.
+        val dealerSnapshot = dealerTransactionsRef
+            .whereEqualTo("bankTransactionId", tid)
+            .whereIn("status", listOf("PENDING", "VERIFIED", "NEEDS_REVIEW"))
+            .get()
+            .await()
+        if (!dealerSnapshot.isEmpty) {
+            val dealerId = dealerSnapshot.documents.firstOrNull()?.getString("dealerId") ?: "unknown"
+            suspiciousActivityRef.add(
+                mapOf(
+                    "type" to "CROSS_APP_TID_REUSE_ATTEMPT",
+                    "detail" to "TID already used for a dealer franchise-balance claim; attempted again in Customer ID App.",
+                    "bankTransactionId" to tid,
+                    "dealerId" to dealerId,
+                    "detectedAt" to System.currentTimeMillis()
+                )
+            )
+            return true
+        }
+        return false
     }
 
     /** Result of attempting to claim/register a Customer ID with a PIN on this device. */
