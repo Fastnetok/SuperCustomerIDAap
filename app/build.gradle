@@ -11,11 +11,11 @@ if (localPropertiesFile.exists()) {
 }
 
 android {
-    namespace 'com.ebone.customeridapp'
+    namespace 'com.example.supercustomerid'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.ebone.customeridapp"
+        applicationId "com.example.supercustomerid"
         minSdk 24
         targetSdk 34
         versionCode 19

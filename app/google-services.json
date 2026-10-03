@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "firebase_url": "https://superadmin-9a853-default-rtdb.firebaseio.com",
+    "project_id": "superadmin-9a853",
+    "storage_bucket": "superadmin-9a853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.example.supercustomerid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForSuperCustomerIDAap123456"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": "1"
+        },
+        "app_invite_service": {
+          "status": "1"
+        },
+        "ads_service": {
+          "status": "1"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

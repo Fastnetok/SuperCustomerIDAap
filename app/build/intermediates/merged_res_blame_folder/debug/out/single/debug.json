@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_yellow.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_yellow.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_chip_pending.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_chip_pending.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_gray.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_gray.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_logo_tile.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_logo_tile.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_bell.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_payment_method.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment_method.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_helpline.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_helpline.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_banner_gradient.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_banner_gradient.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_bankalfalah.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_bankalfalah.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_support.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_support.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_home.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_support_card.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_support_card.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_card_light_purple.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_card_light_purple.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_sadapay.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_sadapay.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_menu.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_dot_active.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_dot_active.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_whatsapp.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_whatsapp.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_dot_inactive.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_dot_inactive.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_orange.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_orange.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_red.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_red.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_jazzcash.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_jazzcash.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_blue.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_blue.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_button_verify.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_button_verify.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_wifi_router.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_wifi_router.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_blue.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_blue.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_chip_active.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_chip_active.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_home.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_card_light_blue.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_card_light_blue.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_sms.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_sms.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_whatsapp.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_whatsapp.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_payment_verification.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment_verification.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_status_success.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_status_success.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_speedometer.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_speedometer.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_calendar_check.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_calendar_check.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_circle_dashed_green.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_circle_dashed_green.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_payment.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_banner.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_banner.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_green.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_green.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/xml_provider_paths.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_orange.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_orange.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_card_light_green.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_card_light_green.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_info.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_card.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_easypaisa.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_easypaisa.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_raastid.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_raastid.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_clock.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_profile.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_gradient_support_header.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_gradient_support_header.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_red.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_red.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_package.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_package.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_payment_row.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_payment_row.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_phone.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_chip_disabled.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_chip_disabled.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_headset_white.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_headset_white.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_status_error.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_status_error.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_badge_accent.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_badge_accent.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_usage.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_usage.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_person.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_green.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_green.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_purple.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_purple.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_navy.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_navy.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_upload_cloud.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_upload_cloud.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_chip_expiry.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_chip_expiry.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_input_field.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_card_payment.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_card_payment.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_bank_building.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_bank_building.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_wallet.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_payments.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_payments.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_support.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_support.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_history.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_card_dashed.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_card_dashed.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_icon_circle_navy.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_icon_circle_navy.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_badge_faysalbank.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_badge_faysalbank.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/drawable_bg_ribbon_red.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/drawable/bg_ribbon_red.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-merged_res-57:/layout_activity_login.xml.flat",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_login.xml"
+    }
+]

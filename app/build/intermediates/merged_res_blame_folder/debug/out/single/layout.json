@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_login.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_support.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_support.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_payment_verification.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment_verification.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_payment_method.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment_method.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_package.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_package.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_home.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.supercustomerid.app-mergeDebugResources-56:/layout/activity_payment.xml",
+        "source": "com.example.supercustomerid.app-main-59:/layout/activity_payment.xml"
+    }
+]
